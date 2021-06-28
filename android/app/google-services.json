@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836520823276",
+    "project_id": "tesseract-toc",
+    "storage_bucket": "tesseract-toc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836520823276:android:51a4ce30de6ddf93e398c9",
+        "android_client_info": {
+          "package_name": "com.example.tesseract"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836520823276-2t8v8f18c0n1cv2bbhvh4njkhsvkfk28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD53EEut-mbsBiviRmhPRMMWUzBpQvzgzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836520823276-2t8v8f18c0n1cv2bbhvh4njkhsvkfk28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
